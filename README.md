@@ -1,6 +1,6 @@
 # Modern portfolio
 
-Responsive portfolio website
+Responsive portfolio website made for learning purposes
 
 ## Getting Started
 
